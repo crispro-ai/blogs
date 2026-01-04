@@ -29,8 +29,6 @@ Technical blog posts and articles from CrisPRO.ai.
 
 ### Technical & Development
 - [LLM Food Validation Samples](./LLM_FOOD_VALIDATION_SAMPLES.md) - Sample queries and responses
-- [LLM Test Fix Summary](./LLM_TEST_FIX_SUMMARY.md) - Testing and fixes for LLM services
-- [Test LLM Service](./TEST_LLM_SERVICE.md) - Service testing documentation
 - [Brainstorm: Cutting-Edge Precision Oncology](./BRAINSTORM_CUTTING_EDGE_PRECISION_ONCOLOGY.md) - Future directions and ideas
 
 ---
