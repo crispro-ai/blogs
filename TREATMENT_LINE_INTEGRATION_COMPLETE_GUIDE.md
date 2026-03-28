@@ -21,7 +21,7 @@ Successfully integrated treatment line sequencing into CrisPRO platform, enablin
 6. ✅ **Production-ready, bullet-proof, fully tested (29/29 tests passing)**
 
 ### **Clinical Impact**
-- **Ayesha's Case**: Olaparib confidence drops from 0.80 → 0.72 (-8% penalty) due to DNA repair pathway cross-resistance
+- **X's Case**: Olaparib confidence drops from 0.80 → 0.72 (-8% penalty) due to DNA repair pathway cross-resistance
 - **Dr. Lustberg's Case**: Tucatinib confidence drops from 0.85 → 0.81 (-4% penalty) due to HER2 TKI cross-resistance
 - **First-Line**: No penalty for treatment-naive patients (correct handling)
 
